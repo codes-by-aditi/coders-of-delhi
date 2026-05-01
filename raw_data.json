@@ -1,0 +1,153 @@
+{
+  "users": [
+    {
+      "id": "u001",
+      "name": "Aarav Sharma",
+      "city": "Delhi",
+      "interests": ["Python", "Machine Learning", "Data Science"],
+      "friends": ["u002", "u003", "u005", "u003"],
+      "liked_pages": ["p001", "p003"],
+      "last_active_days_ago": 2
+    },
+    {
+      "id": "u002",
+      "name": "Priya Mehta",
+      "city": "Delhi",
+      "interests": ["Web Development", "JavaScript", "React"],
+      "friends": ["u001", "u004", "u006"],
+      "liked_pages": ["p002", "p004"],
+      "last_active_days_ago": 5
+    },
+    {
+      "id": "u003",
+      "name": "Rohan Gupta",
+      "city": "Delhi",
+      "interests": ["Python", "Data Science", "AI"],
+      "friends": ["u001", "u005", "u007"],
+      "liked_pages": ["p001", "p005"],
+      "last_active_days_ago": 1
+    },
+    {
+      "id": "u004",
+      "name": "",
+      "city": "Delhi",
+      "interests": ["Java", "Spring Boot"],
+      "friends": ["u002"],
+      "liked_pages": ["p002"],
+      "last_active_days_ago": 3
+    },
+    {
+      "id": "u005",
+      "name": "Sneha Kapoor",
+      "city": "Delhi",
+      "interests": ["Machine Learning", "Deep Learning", "Python"],
+      "friends": ["u001", "u003", "u008"],
+      "liked_pages": ["p001", "p003", "p005"],
+      "last_active_days_ago": 0
+    },
+    {
+      "id": "u006",
+      "name": "Karan Singh",
+      "city": "Delhi",
+      "interests": ["DevOps", "Cloud", "Docker"],
+      "friends": ["u002", "u009"],
+      "liked_pages": ["p004", "p006"],
+      "last_active_days_ago": 400
+    },
+    {
+      "id": "u007",
+      "name": "Ananya Joshi",
+      "city": "Delhi",
+      "interests": ["Python", "AI", "NLP"],
+      "friends": ["u003", "u008", "u010"],
+      "liked_pages": ["p001", "p005", "p007"],
+      "last_active_days_ago": 7
+    },
+    {
+      "id": "u008",
+      "name": "Vikram Rao",
+      "city": "Delhi",
+      "interests": ["Data Science", "Statistics", "R"],
+      "friends": ["u005", "u007", "u010"],
+      "liked_pages": ["p003", "p005"],
+      "last_active_days_ago": 10
+    },
+    {
+      "id": "u009",
+      "name": "",
+      "city": "Delhi",
+      "interests": ["Networking"],
+      "friends": ["u006"],
+      "liked_pages": [],
+      "last_active_days_ago": 500
+    },
+    {
+      "id": "u010",
+      "name": "Meera Nair",
+      "city": "Delhi",
+      "interests": ["Machine Learning", "Computer Vision", "Python"],
+      "friends": ["u007", "u008", "u008"],
+      "liked_pages": ["p003", "p005", "p007"],
+      "last_active_days_ago": 4
+    },
+    {
+      "id": "u011",
+      "name": "Arjun Patel",
+      "city": "Delhi",
+      "interests": ["Competitive Programming", "Algorithms", "C++"],
+      "friends": ["u001", "u005"],
+      "liked_pages": ["p001", "p007"],
+      "last_active_days_ago": 15
+    }
+  ],
+  "pages": [
+    {
+      "id": "p001",
+      "name": "Python Coders India",
+      "category": "Technology",
+      "followers": 15200
+    },
+    {
+      "id": "p002",
+      "name": "JavaScript Developers Delhi",
+      "category": "Technology",
+      "followers": 8900
+    },
+    {
+      "id": "p003",
+      "name": "Data Science Hub",
+      "category": "Education",
+      "followers": 22500
+    },
+    {
+      "id": "p004",
+      "name": "React & Frontend Magic",
+      "category": "Technology",
+      "followers": 11000
+    },
+    {
+      "id": "p005",
+      "name": "AI & Machine Learning India",
+      "category": "Education",
+      "followers": 31000
+    },
+    {
+      "id": "p005",
+      "name": "AI & Machine Learning India",
+      "category": "Education",
+      "followers": 31000
+    },
+    {
+      "id": "p006",
+      "name": "DevOps & Cloud Engineers",
+      "category": "Technology",
+      "followers": 7600
+    },
+    {
+      "id": "p007",
+      "name": "Competitive Programming Arena",
+      "category": "Education",
+      "followers": 19800
+    }
+  ]
+}
