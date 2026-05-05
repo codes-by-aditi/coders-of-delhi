@@ -1,4 +1,4 @@
-# 📘 CodeBook — Social Network Analysis
+# 📘 Coders of Delhi — Social Network Analysis
 ### Coders of Delhi | Pure Python | Data Science Portfolio Project
 
 <p align="left">
