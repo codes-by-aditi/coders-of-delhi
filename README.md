@@ -251,7 +251,7 @@ Copy these directly onto your resume or LinkedIn:
 ## 👩‍💻 Author
 
 **Aditi Chaudhary**  
-Aspiring Data Scientist | Python · SQL · Machine Learning | VTU '26
+Aspiring Data Scientist | Python · SQL · Machine Learning | VTU '28
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditi-chaudhary-bb3324250)
 [![GitHub](https://img.shields.io/badge/GitHub-codes--by--aditi-181717?style=flat-square&logo=github)](https://github.com/codes-by-aditi)
